@@ -10,7 +10,7 @@
 [프로젝트 환경설정](https://github.com/Kimginam97/Study_Application/blob/master/summary/1.%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85/1.1.%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
 ### JPA 내용 정리
-1. [회원가입](https://github.com/Kimginam97/Study_Jpa_Basic/blob/master/summary/1.JPA%EC%86%8C%EA%B0%9C.md)
+1. [회원가입](https://github.com/Kimginam97/Study_Application/tree/master/summary/1.%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85)
 2. [계정설정]()
 3. [관심주제와 지역정보]()
 4. [DB와이메일설정]()
