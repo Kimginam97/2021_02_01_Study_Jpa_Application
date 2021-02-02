@@ -14,3 +14,6 @@
 
 ### 1.5.회원가입폼 서브밋검증처리
 * git checkout ac76ca7f4e52dcf347d39c8f99e7f28ec676d652
+
+### 1.6.회원가입리팩토링 및 테스트
+* git checkout 436b846080118fc21692727f9822f4dbfe47912a
