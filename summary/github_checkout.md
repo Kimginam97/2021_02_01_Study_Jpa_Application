@@ -11,3 +11,6 @@
 
 ### 1.4.회원가입뷰
 * git checkout 706c33ca8d8230bcef6475ea1faf2a935fab79e3
+
+### 1.5.회원가입폼 서브밋검증처리
+* git checkout ac76ca7f4e52dcf347d39c8f99e7f28ec676d652
