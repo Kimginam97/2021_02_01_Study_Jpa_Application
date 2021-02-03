@@ -29,3 +29,6 @@
 
 ### 2.1.회원가입완료후 자동 로그인
 * git checkout d26cea153e885016e04f3ac7071a78255a10face
+
+### 2.2.회원가입메인네비게이션메뉴
+* git checkout 3b3b0e30d51cb210addc4b945a48b3be8fe38ae1
