@@ -26,3 +26,6 @@
 
 ### 1.9.회원가입인증메일확인테스트및리팩토링
 * git checkout 0c01c73df680608f1b7038af930bdf215e288b25
+
+### 2.1.회원가입완료후 자동 로그인
+* git checkout d26cea153e885016e04f3ac7071a78255a10face
