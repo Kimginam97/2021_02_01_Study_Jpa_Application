@@ -11,7 +11,7 @@
 
 ### JPA 내용 정리
 1. [회원가입](https://github.com/Kimginam97/Study_Application/tree/master/summary/1.%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85)
-2. [계정설정]()
+2. [계정설정](https://github.com/Kimginam97/2021_02_01_Study_Jpa_Application/tree/master/summary/2.%EA%B3%84%EC%A0%95%EC%84%A4%EC%A0%95)
 3. [관심주제와 지역정보]()
 4. [DB와이메일설정]()
 5. [스터디]()
