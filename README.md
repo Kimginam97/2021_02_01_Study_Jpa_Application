@@ -21,9 +21,6 @@
 9. [검색및첫페이지]()
 10. [에러처리및 배포준비]()
 
-### Git Check Out
-[Git 커밋](https://github.com/Kimginam97/Study_Application/tree/master/summary/GitCheckOut)
-
 
 
 
