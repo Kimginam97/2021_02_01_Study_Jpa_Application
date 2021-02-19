@@ -16,7 +16,7 @@
 4. [DB와이메일설정](https://github.com/Kimginam97/2021_02_01_Study_Jpa_Application/tree/master/summary/4.DB%EC%99%80%EC%9D%B4%EB%A9%94%EC%9D%BC%EC%84%A4%EC%A0%95)
 5. [스터디](https://github.com/Kimginam97/2021_02_01_Study_Jpa_Application/tree/master/summary/5.%EC%8A%A4%ED%84%B0%EB%94%94)
 6. [모임](https://github.com/Kimginam97/2021_02_01_Study_Jpa_Application/tree/master/summary/6.%EB%AA%A8%EC%9E%84)
-7. [패키지및테스트코드정리]()
+7. [패키지및테스트코드정리](https://github.com/Kimginam97/2021_02_01_Study_Jpa_Application/tree/master/summary/7.%ED%8C%A8%ED%82%A4%EC%A7%80%EB%B0%8F%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%EC%A0%95%EB%A6%AC)
 8. [알림]()
 9. [검색및첫페이지]()
 10. [에러처리및 배포준비]()
