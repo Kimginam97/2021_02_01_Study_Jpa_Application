@@ -4,7 +4,9 @@ import com.studyolle.WithAccount;
 import com.studyolle.account.AccountRepository;
 import com.studyolle.domain.Account;
 import com.studyolle.domain.Study;
+import com.studyolle.study.form.StudyForm;
 import lombok.RequiredArgsConstructor;
+import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -23,7 +25,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @SpringBootTest
 @AutoConfigureMockMvc
 @RequiredArgsConstructor
-class StudyControllerTest {
+public class StudyControllerTest {
 
     @Autowired protected MockMvc mockMvc;
     @Autowired protected StudyService studyService;
