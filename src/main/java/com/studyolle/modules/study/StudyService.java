@@ -27,7 +27,6 @@ public class StudyService {
     private final StudyRepository repository;
     private final ModelMapper modelMapper;
     private final ApplicationEventPublisher eventPublisher;
-    private final TagRepository tagRepository;
 
     public Study createNewStudy(Study study, Account account) {
         Study newStudy = repository.save(study);
@@ -175,22 +174,4 @@ public class StudyService {
         return study;
     }
 
-    public void generateTestStudies(Account account) {
-        for (int i = 1 ; i <30 ;i++){
-            String randomvalue = RandomString.make(5);
-            Study study = Study.builder()
-                    .title("테스트 스터디 " + randomvalue)
-                    .path("test-" + randomvalue)
-                    .shortDescription("테스트용 스터디입니다")
-                    .fullDescription("test")
-                    .tags(new HashSet<>())
-                    .managers(new HashSet<>())
-                    .build();
-
-            study.publish();
-            Study newStudy = this.createNewStudy(study,account);
-            Tag jpa = tagRepository.findByTitle("JPA");
-            newStudy.getTags().add(jpa);
-        }
-    }
 }
