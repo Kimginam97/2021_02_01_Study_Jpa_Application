@@ -19,7 +19,7 @@
 7. [패키지및테스트코드정리](https://github.com/Kimginam97/2021_02_01_Study_Jpa_Application/tree/master/summary/7.%ED%8C%A8%ED%82%A4%EC%A7%80%EB%B0%8F%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%EC%A0%95%EB%A6%AC)
 8. [알림](https://github.com/Kimginam97/2021_02_01_Study_Jpa_Application/tree/master/summary/8.%EC%95%8C%EB%A6%BC)
 9. [검색및첫페이지](https://github.com/Kimginam97/2021_02_01_Study_Jpa_Application/tree/master/summary/9.%EA%B2%80%EC%83%89%EB%B0%8F%EC%B2%AB%ED%8E%98%EC%9D%B4%EC%A7%80)
-10. [에러처리및 배포준비]()
+10. [에러처리및 배포준비](https://github.com/Kimginam97/2021_02_01_Study_Jpa_Application/tree/master/summary/10.%EC%97%90%EB%9F%AC%EC%B2%98%EB%A6%AC%EB%B0%8F%EB%B0%B0%ED%8F%AC%EC%A4%80%EB%B9%84)
 
 
 
